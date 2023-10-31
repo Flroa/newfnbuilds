@@ -9,7 +9,7 @@ If you wish to contribute anything that isn't listed here, Please dm 91ba on dis
 We are currently working on a way to download without a cap.
 
 # Compatibility
-Since it its newer builds it doesnt have support for anything like: Momentum, Lawinserver or Lawinserver v2 you have to modify it to work on these builds
+Since it it's newer builds it doesn't have support for anything like: Momentum, Lawinserver or Lawinserver v2 you have to modify it to work on these builds
 
 # Downloads
 
