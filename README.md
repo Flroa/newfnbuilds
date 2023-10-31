@@ -10,8 +10,6 @@ We are currently working on a way to download without a cap.
 
 If you decide to use this for a project, you must provide credit of this GitHub repo.
 
-My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact me).
-
 # Downloads
 
 
