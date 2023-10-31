@@ -8,7 +8,8 @@ If you wish to contribute anything that isn't listed here, Please dm 91ba on dis
 
 We are currently working on a way to download without a cap.
 
-If you decide to use this for a project, you must provide credit of this GitHub repo.
+# Compatibility
+Since it its newer builds it doesnt have support for anything like: Momentum, Lawinserver or Lawinserver v2 you have to modify it to work on these builds
 
 # Downloads
 
@@ -16,4 +17,4 @@ If you decide to use this for a project, you must provide credit of this GitHub 
 # Chapter 4 Season 4
 | Build                         | Date           	       |  Engine Version	     |		          Download links             |
 | ----------------------------- | ---------------------- | --------------------- | --------------------------------------- |
-| 26.30-CL-N/A	                | October 10, 2023       | 	 | N/A           	   |	 https://cdn.blksservers.com/19.10.rar |
+| 26.30-CL-N/A	                | October 10, 2023       | 	 | ue5           	   |	 https://cdn.blksservers.com/19.10.rar |
