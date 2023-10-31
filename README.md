@@ -17,4 +17,4 @@ Since it its newer builds it doesnt have support for anything like: Momentum, La
 # Chapter 4 Season 4
 | Build                         | Date           	       |  Engine Version	     |		          Download links             |
 | ----------------------------- | ---------------------- | --------------------- | --------------------------------------- |
-| 26.30-CL-N/A	                | October 10, 2023       | 	 | ue5           	   |	 https://cdn.blksservers.com/19.10.rar |
+| 26.30-CL-N/A	                | October 10, 2023       | ue5           	       |	 https://cdn.blksservers.com/19.10.rar |
